@@ -1,29 +1,5 @@
-<!---->
-<div align="center">
-<img src="./docs/app.jpg" align="center">
-</div>
+# SMM - Courses
 
-# 👔 Scaleup Customers - Vue, Ts & Tailwind CSS
 
-<p>Projeto desenvolvido por: <strong>Thiago Silva Lopes</strong>, em 09/2022.<br/>
-Para o code challenge da vaga de Front End Jr, da Scaleup.</p>
 
-### Demo: https://scaleup-customers.vercel.app
-
-<p> Instalar o projeto localmente: </p>
-
-```
-yarn install
-```
-
-<p> Compilar/executar o projeto: </p>
-
-```
-yarn dev
-```
-
-<small>
-<a href="https://github.com/Thiagoow" target="_blank">
-  © Thiago Silva Lopes
-</a>
-</small>
+<a href="https://vuejs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/vuejs-colored.svg" width="36" height="36" alt="Vue" /></a>
