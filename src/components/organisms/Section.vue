@@ -16,7 +16,8 @@
       <Button text="Зареєструватись" link="#contract" />
     </div>
 
-    <img :alt="alt" :src="imgSrc" class="w-1/2 sm:w-7/12 lg:w-[35%]" />
+   <img :alt="alt" :src="imgSrc" class="w-1/2 sm:w-7/12 lg:w-[35%] rounded-lg" />
+
   </section>
 </template>
 
