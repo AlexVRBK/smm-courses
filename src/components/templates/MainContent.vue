@@ -25,8 +25,8 @@
 
 <script setup lang="ts">
 //Images import:
-import feedImg from '../../assets/img/app/feed.png'
-import coursesImg from '../../assets/img/app/courses.png'
+import feedImg from '../../assets/img/app/smm.png'
+import coursesImg from '../../assets/img/app/facebook.jpeg'
 //Components import:
 import Section from '../organisms/Section.vue'
 import Advantages from '../molecules/Advantages.vue'

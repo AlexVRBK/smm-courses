@@ -3,7 +3,7 @@
     class="p-8 bg-containerColor md:flex md:items-center md:justify-between lg:max-w-6xl lg:mx-auto lg:rounded-t-lg"
   >
     <p class="text-sm text-txtColor text-center lg:pl-2">
-      © 2023 SMMplanner. Публічна оферта. Курси та Професіуми
+      © 2022 SMMplanner. Публічна оферта. Курси та Професіуми
 
       <a href="https://github.com/AlexVRBK" class="firstColorLink ml-6">AlexVRBK</a>.
     </p>

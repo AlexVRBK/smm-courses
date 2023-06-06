@@ -2,7 +2,7 @@
   <section
     class="flex flex-col md:flex-row my-32 gap-10 text-center w-fit mx-auto"
   >
-    <Card title="10 липня" text="Курс триває 2 місяці" />
+    <Card title="10 грудня" text="Курс триває 2 місяці" />
 
     <Card title="7 000 грн/міс." text="14 000 грн при повній оплаті курсу" />
 
